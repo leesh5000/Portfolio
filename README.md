@@ -15,7 +15,11 @@ DevMoa는 개발 질문 및 정보 공유, 잡담 등 다양한 개발 관련 �
 - 2023.09 ~ 2023.11 (2달)
 - 개인 프로젝트
 
-### 시연 영상
+### 사용 기술
+
+- 프론트엔드 : react, redux, tailwindcss
+- 백엔드 : springboot, jpa, querydsl
+- 인프라 : aws ec2, aws codedeploy, aws rds, aws s3, aws cloudfront, github actions, docker
 
 ### 코드 저장소
 
