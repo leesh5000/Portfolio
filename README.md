@@ -5,9 +5,8 @@
 
 DevMoa는 개발 질문 및 정보 공유, 잡담 등 다양한 개발 관련 이야기를 나눌 수 있는 커뮤니티 사이트입니다.
 
-### 서비스 주소
-
-- [https://devmoa.com](https://devmoa.com)
+- 서비스 주소 : [https://devmoa.com](https://devmoa.com)
+- 시연 영상 : [유튜브 링크](https://www.youtube.com/watch?v=2rBkW6g892M)
 
 ### 기획의도
 
