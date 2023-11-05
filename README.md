@@ -7,7 +7,7 @@ DevMoa는 개발 질문 및 정보 공유, 잡담 등 다양한 개발 관련 �
 
 ### 서비스 주소
 
-[https://devmoa.com](https://devmoa.com)
+- [https://devmoa.com](https://devmoa.com)
 
 ### 기획의도
 
